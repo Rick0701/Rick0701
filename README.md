@@ -11,11 +11,11 @@ I am about to graduate 🎓 with the Master of Applied Data Science (MADS) from 
 </a>
 </div>
 
-My most recent, open source projects:
+My most recent, open source projects (WIP):
 
-1) 😣 [Videogames Reccommendation](https://github.com) is my MADS Milestone II projects. I worked on a team of three master's students on STEAM dataset retrieved from Kaggle. In this project, I built a Neural Collaborative Filtering to reccomend the next videogames to play..  [our paper is here](https://github.com).
-2) In [Propaganda Analysis](https://github.com/) is MADS Milestone I project. We analyzed how Russian propaganda towards Ukraine originated, propagated and evolved by scraping and analyizing the most popular Russian TV news broadcast.
-3) 🎒 [Food Insecurity Analysis in Kenya](https://github.com)
+1) 🎮 [Videogames Reccommendation](https://github.com) is my MADS Milestone II project. I worked on a team of three master's students on STEAM dataset retrieved from Kaggle. In this project, I built a Neural Collaborative Filtering to reccomend the next videogames to play..  [our paper is here](https://github.com).
+2) [📣Propaganda Analysis](https://github.com/) is my MADS Milestone I project. We analyzed how Russian propaganda towards Ukraine originated, propagated and evolved by scraping and analyizing the most popular Russian TV news broadcast.
+3) [Food Insecurity Analysis in Kenya](https://github.com)
 
 ### Languages, Tools, and Skills 🛠
 
@@ -23,8 +23,8 @@ My most recent, open source projects:
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 </div>
 <div align="center">
-<img src='https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' alt='scikit-learn' />
 <img src='https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white' alt='Pandas' />
+<img src='https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' alt='scikit-learn' />
 <img src='https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white' alt='SciPy' />
 <img src='https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white' alt='NumPy' />
 <img src='https://img.shields.io/badge/Apache%20Spark-4479A1?style=for-the-badge&logo=apache-spark&logoColor=white' alt='Spark' />
@@ -40,6 +40,5 @@ My most recent, open source projects:
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </div>
 <div align="center">
+<img src="https://img.shields.io/badge/Qlik-Sense?style=for-the-badge&logo=qlik&logoSize=auto" alt="Qlik Sense"/>
 </div>
-
-Also Sparksql, Mode, Looker, DataBricks, Workday(?), G-Suite, Microsoft Office, Cyber Duck, Liveramp, Airflow
