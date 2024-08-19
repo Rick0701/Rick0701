@@ -1,16 +1,45 @@
-## Hi there 👋
+### Hey there, I'm Riccardo!
 
-<!--
-**Rick0701/Rick0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am about to graduate 🎓 with the Master of Applied Data Science (MADS) from the University of Michigan School of Information (UMSI). I have a graduate and PhD in management and engineering from Polytechnic University of Turin (Italy). I've got 5 years of experience in management and data science focusing on Python, SQL, and Qlik Sense. I am skilled at translating business needs into functional requirements, building SQL and Spark pipelines, using Python to explore and clean data, and developing dashboards using Qlik Sense.
 
-Here are some ideas to get you started:
+<div align="center">
+<a href="https://www.linkedin.com/in/riccardo-ricci-rr/">
+<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="mailto:riccardo.ricci91.rr@gmail.com">
+<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My most recent, open source projects:
+
+1) 😣 [Videogames Reccommendation](https://github.com) is my MADS Milestone II projects. I worked on a team of three master's students on STEAM dataset retrieved from Kaggle. In this project, I built a Neural Collaborative Filtering to reccomend the next videogames to play..  [our paper is here](https://github.com).
+2) In [Propaganda Analysis](https://github.com/) is MADS Milestone I project. We analyzed how Russian propaganda towards Ukraine originated, propagated and evolved by scraping and analyizing the most popular Russian TV news broadcast.
+3) 🎒 [Food Insecurity Analysis in Kenya](https://github.com)
+
+### Languages, Tools, and Skills 🛠
+
+<div align="center">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+</div>
+<div align="center">
+<img src='https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' alt='scikit-learn' />
+<img src='https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white' alt='Pandas' />
+<img src='https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white' alt='SciPy' />
+<img src='https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white' alt='NumPy' />
+<img src='https://img.shields.io/badge/Apache%20Spark-4479A1?style=for-the-badge&logo=apache-spark&logoColor=white' alt='Spark' />
+<img src='https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white' alt='Pytorch' />
+</div>
+<div align="center">
+<img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+</div>
+<div align="center">
+<img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</div>
+<div align="center">
+</div>
+
+Also Sparksql, Mode, Looker, DataBricks, Workday(?), G-Suite, Microsoft Office, Cyber Duck, Liveramp, Airflow
