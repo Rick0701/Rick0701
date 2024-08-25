@@ -14,7 +14,7 @@ I am about to graduate 🎓 with the Master of Applied Data Science (MADS) from 
 My most recent, open source projects are:
 
 1) 📣 [Propaganda Analysis](https://github.com/Rick0701/Propaganda-analysis) is my MADS Milestone I project. Analyzed in *python* how Russian propaganda towards Ukraine originated, propagated, evolved and its effectiveness by scraping and analyzing the most popular Russian TV news broadcast. I worked on a team of two for two months to scrape, clean, and analyze data in *Pandas* and visualize with *matplotlib* and *Vega-Altair*.
-2) 🎮 [Videogames Reccommendation](https://github.com/Rick0701/Videogames_Reccomendation) is my MADS Milestone II project. I worked on a team of three master's students on STEAM dataset retrieved from Kaggle. In this project, I built a Neural Collaborative Filtering to reccomend the next videogames to play..  [our paper is here](https://github.com).
+2) 🎮 [Videogames Reccommendation](https://github.com/Rick0701/Videogames_Reccomendation) is my MADS Milestone II project. I worked on a team of three on a STEAM dataset retrieved from Kaggle. Analyzed in python using deep learning (using Keras) which games to reccommend to gamers.
 
 
 ### Languages, Tools, and Skills 🛠
@@ -29,6 +29,7 @@ My most recent, open source projects are:
 <img src='https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white' alt='NumPy' />
 <img src='https://img.shields.io/badge/Apache%20Spark-4479A1?style=for-the-badge&logo=apache-spark&logoColor=white' alt='Spark' />
 <img src='https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white' alt='Pytorch' />
+<img src='https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white' alt='Keras' />
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
@@ -45,6 +46,28 @@ My most recent, open source projects are:
 
 **Other tools and skills**
 
-- Data vizualizations: matplotlib, vega-altair
+- Data visualizations: matplotlib, vega-altair
 - Scraping: scrapy
 - NLP: spacy
+
+### PhD in Engineering Management
+
+I pursued a PhD in engineering management at the *Polytechnic University of Turin*
+
+Researched the impact of data science technologies on decision-making approaches and supply chain governance analyzing Italian and US automotive questionnaire data with STATA and Tableau
+Published four papers in leading management journals and presented them at international conferences. Achieved the best paper award at 2019 IFKAD International conference  
+
+
+<div align="center">
+<a href="https://scholar.google.com/citations?user=5pMU4EUAAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="linkedin" />
+</a>
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/_+_280citations-GoogleScholar-blue" alt="Google Scholar"/>
+</div>
+
+
+
+
