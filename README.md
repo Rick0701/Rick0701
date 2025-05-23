@@ -1,6 +1,16 @@
-### Hey there, I'm Riccardo!
+### 👋 Hey there, I'm Riccardo!
 
-I am about to graduate 🎓 with the Master of Applied Data Science (MADS) from the University of Michigan School of Information (UMSI). I have a graduate and PhD in management and engineering from Polytechnic University of Turin (Italy). I've got 5 years of experience in management and data science focusing on Python, SQL, and Qlik Sense. I am skilled at translating business needs into functional requirements, building SQL and Spark pipelines, using Python to explore and clean data, and developing dashboards using Qlik Sense.
+🎓 I recently graduated with a **Master of Applied Data Science (MADS)** from the **University of Michigan School of Information (UMSI)**.  
+Before transitioning into data science, I earned a **Master’s degree** and a **PhD in Management Engineering** from the **Polytechnic University of Turin**.
+
+My portfolio below showcases the outcomes of several hands-on, application-focused courses. These projects demonstrate my skills in:
+
+- **Data manipulation and cleaning**
+- **Machine learning**, including neural networks
+- **Data visualization**
+- **Big data processing** with PySpark
+
+The projects span a variety of domains, including **news broadcasting**, **videogame recommendation systems**, and **procurement analytics in supply chains**.
 
 <div align="center">
 <a href="https://www.linkedin.com/in/riccardo-ricci-rr/">
@@ -11,11 +21,33 @@ I am about to graduate 🎓 with the Master of Applied Data Science (MADS) from 
 </a>
 </div>
 
-My most recent, open source projects are:
+### 🚀 Featured Projects
 
-1) 📣 [Propaganda Analysis](https://github.com/Rick0701/Propaganda-analysis) is my MADS Milestone I project. Analyzed in *python* how Russian propaganda towards Ukraine originated, propagated, evolved and its effectiveness by scraping and analyzing the most popular Russian TV news broadcast. I worked on a team of two for two months to scrape, clean, and analyze data in *Pandas* and visualize with *matplotlib* and *Vega-Altair*.
-2) 🎮 [Videogames Reccommendation](https://github.com/Rick0701/Videogames_Reccomendation) is my MADS Milestone II project. I worked on a team of three on a STEAM dataset retrieved from Kaggle. Analyzed in python using deep learning (using Keras) which games to reccommend to gamers.
+#### 1️⃣ [Hierarchical Multi-Level Spending Classification](https://github.com/Rick0701/Hierarchical_Multi_Level_Spending_Classification)
+> 🏢 **MADS Capstone Project** in collaboration with **KPMG**
 
+A solo project focused on classifying procurement spending categories across **four hierarchical levels**.  
+- Developed a **multi-step machine learning pipeline** where predictions at each level feed into the next  
+- Compared models including **Decision Trees**, **Random Forest**, and **Gradient Boosting**  
+- Applied **NLP** techniques to purchase order descriptions  
+- Engineered features using one-hot encoding and domain-specific attributes
+
+#### 2️⃣ [Videogame Recommendation](https://github.com/Rick0701/Videogames_Reccomendation)
+> 🎓 **MADS Milestone II Project**
+
+Collaborative project with a team of three on a **STEAM dataset** from Kaggle.  
+- Built a recommender system using **deep learning (Keras)**  
+- Designed to suggest relevant games based on player behavior and preferences  
+- Employed extensive data preprocessing, embedding layers, and evaluation techniques in Python
+
+#### 3️⃣ [Propaganda Analysis](https://github.com/Rick0701/Propaganda-analysis)
+> 🎓 **MADS Milestone I Project**
+
+Explored the spread and effectiveness of Russian propaganda regarding Ukraine.  
+- Scraped and processed data from major Russian TV broadcasts  
+- Analyzed temporal and thematic trends using **pandas**, **matplotlib**, and **Vega-Altair**  
+- Delivered a comprehensive analysis of how narratives evolved over time  
+- Completed with a team of two over a two-month period
 
 ### Languages, Tools, and Skills 🛠
 
@@ -48,14 +80,17 @@ My most recent, open source projects are:
 
 - Data visualizations: matplotlib, vega-altair
 - Scraping: scrapy
-- NLP: spacy
+- NLP: spacy, nltk
 
-### PhD in Engineering Management
+### 🎓 PhD in Management Engineering
 
-I pursued a PhD in engineering management at the *Polytechnic University of Turin*
+I completed a **PhD in Management Engineering** at the *Polytechnic University of Turin*.
 
-Researched the impact of data science technologies on decision-making approaches and supply chain governance analyzing Italian and US automotive questionnaire data with STATA and Tableau
-Published four papers in leading management journals and presented them at international conferences. Achieved the best paper award at 2019 IFKAD International conference  
+- Researched the impact of **data science technologies** on **decision-making processes** and **supply chain governance**
+- Analyzed survey data from the **Italian and U.S. automotive sectors** using **STATA** and **Tableau**
+- Published **four peer-reviewed papers** in leading management journals
+- Presented findings at **international conferences**
+- 🏆 Awarded **Best Paper** at the **2019 IFKAD International Conference**
 
 
 <div align="center">
@@ -67,7 +102,3 @@ Published four papers in leading management journals and presented them at inter
 <div align="center">
 <img src="https://img.shields.io/badge/_+_280citations-GoogleScholar-blue" alt="Google Scholar"/>
 </div>
-
-
-
-
