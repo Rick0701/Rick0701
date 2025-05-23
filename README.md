@@ -1,9 +1,9 @@
 ### 👋 Hey there, I'm Riccardo!
 
-🎓 I recently graduated with a **Master of Applied Data Science (MADS)** from the **University of Michigan School of Information (UMSI)**.  
+🎓 I graduated with a **Master of Applied Data Science (MADS)** from the **University of Michigan School of Information (UMSI)**.
 Before transitioning into data science, I earned a **Master’s degree** and a **PhD in Management Engineering** from the **Polytechnic University of Turin**.
 
-My portfolio below showcases the outcomes of several hands-on, application-focused courses. These projects demonstrate my skills in:
+My portfolio below showcases the outcomes of hands-on, application-focused courses. These projects demonstrate my skills in:
 
 - **Data manipulation and cleaning**
 - **Machine learning**, including neural networks
@@ -24,29 +24,35 @@ The projects span a variety of domains, including **news broadcasting**, **video
 ### 🚀 Featured Projects
 
 #### 1️⃣ [Hierarchical Multi-Level Spending Classification](https://github.com/Rick0701/Hierarchical_Multi_Level_Spending_Classification)
+
 > 🏢 **MADS Capstone Project** in collaboration with **KPMG**
 
-A solo project focused on classifying procurement spending categories across **four hierarchical levels**.  
-- Developed a **multi-step machine learning pipeline** where predictions at each level feed into the next  
-- Compared models including **Decision Trees**, **Random Forest**, and **Gradient Boosting**  
-- Applied **NLP** techniques to purchase order descriptions  
+A solo project focused on classifying procurement spending categories across **four hierarchical levels**.
+
+- Developed a **multi-step machine learning pipeline** where predictions at each level feed into the next
+- Compared models including **Decision Trees**, **Random Forest**, and **Gradient Boosting**
+- Applied **NLP** techniques to purchase order descriptions
 - Engineered features using one-hot encoding and domain-specific attributes
 
 #### 2️⃣ [Videogame Recommendation](https://github.com/Rick0701/Videogames_Reccomendation)
+
 > 🎓 **MADS Milestone II Project**
 
-Collaborative project with a team of three on a **STEAM dataset** from Kaggle.  
-- Built a recommender system using **deep learning (Keras)**  
-- Designed to suggest relevant games based on player behavior and preferences  
+Collaborative project with a team of three on a **STEAM dataset** from Kaggle.
+
+- Built a recommender system using **deep learning (Keras)**
+- Designed to suggest relevant games based on player behavior and preferences
 - Employed extensive data preprocessing, embedding layers, and evaluation techniques in Python
 
 #### 3️⃣ [Propaganda Analysis](https://github.com/Rick0701/Propaganda-analysis)
+
 > 🎓 **MADS Milestone I Project**
 
-Explored the spread and effectiveness of Russian propaganda regarding Ukraine.  
-- Scraped and processed data from major Russian TV broadcasts  
-- Analyzed temporal and thematic trends using **pandas**, **matplotlib**, and **Vega-Altair**  
-- Delivered a comprehensive analysis of how narratives evolved over time  
+Explored the spread and effectiveness of Russian propaganda regarding Ukraine.
+
+- Scraped and processed data from major Russian TV broadcasts
+- Analyzed temporal and thematic trends using **pandas**, **matplotlib**, and **Vega-Altair**
+- Delivered a comprehensive analysis of how narratives evolved over time
 - Completed with a team of two over a two-month period
 
 ### Languages, Tools, and Skills 🛠
@@ -91,7 +97,6 @@ I completed a **PhD in Management Engineering** at the *Polytechnic University o
 - Published **four peer-reviewed papers** in leading management journals
 - Presented findings at **international conferences**
 - 🏆 Awarded **Best Paper** at the **2019 IFKAD International Conference**
-
 
 <div align="center">
 <a href="https://scholar.google.com/citations?user=5pMU4EUAAAAJ&hl=en">
