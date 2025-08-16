@@ -68,26 +68,38 @@ Explored the spread and effectiveness of Russian propaganda regarding Ukraine.
 <img src='https://img.shields.io/badge/Apache%20Spark-4479A1?style=for-the-badge&logo=apache-spark&logoColor=white' alt='Spark' />
 <img src='https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white' alt='Pytorch' />
 <img src='https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white' alt='Keras' />
+</div>
+
+</div>
+<div align="center">
+<img src='https://img.shields.io/badge/NLP-spaCy-Salmon' alt='spacy' />
 <img src='https://img.shields.io/badge/NLTK-3776AB?logo=python&logoColor=fff' alt='nltk' />
+
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+<img src="https://img.shields.io/badge/Databricks-181825?style=for-the-badge&logo=databricks" alt="databricks" />
 </div>
+
 <div align="center">
 <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </div>
+
 <div align="center">
 <img src="https://img.shields.io/badge/Qlik-Sense?style=for-the-badge&logo=qlik&logoSize=auto" alt="Qlik Sense"/>
+<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"/>
+<img src='https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&logoSize=2' alt='matplotlib' />
+<img src='https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white' alt='plotly' />
 </div>
 
 **Other tools and skills**
 
-- Data visualizations: matplotlib, vega-altair
+- Data visualizations: vega-altair
 - Scraping: scrapy
-- NLP: spacy, nltk
+- NLP: spacy
 
 ### 🎓 PhD in Management Engineering
 
