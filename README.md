@@ -34,7 +34,7 @@ A solo project focused on classifying procurement spending categories across **f
 - Applied **NLP** techniques to purchase order descriptions
 - Engineered features using one-hot encoding and domain-specific attributes
 
-#### 2️⃣ [Videogame Recommendation](https://github.com/Rick0701/Videogames_Reccomendation)
+#### 2️⃣ [Videogame Recommendation](https://github.com/Rick0701/Videogames_Reccommendation)
 
 > 🎓 **MADS Milestone II Project**
 
