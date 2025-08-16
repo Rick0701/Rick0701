@@ -68,6 +68,7 @@ Explored the spread and effectiveness of Russian propaganda regarding Ukraine.
 <img src='https://img.shields.io/badge/Apache%20Spark-4479A1?style=for-the-badge&logo=apache-spark&logoColor=white' alt='Spark' />
 <img src='https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white' alt='Pytorch' />
 <img src='https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white' alt='Keras' />
+<img src='https://img.shields.io/badge/NLTK-3776AB?logo=python&logoColor=fff' alt='nltk' />
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
